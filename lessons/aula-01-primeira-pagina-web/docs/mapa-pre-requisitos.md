@@ -2,7 +2,7 @@
 
 **Nome:** ariel dos santos moraes
 
-**Equipe:**Ariel, antonio, pablo
+**Equipe:**Ariel, antonio victor, pablo
 
 **Data:** 21/08/2026
 
