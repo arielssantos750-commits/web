@@ -17,7 +17,8 @@ Marque **uma opção por linha**. Este diagnóstico não vale nota.
 | Git + organização — arquivos e primeiro commit | [ ] | [ ] | [ 🔴] | |
 
 ## Uma dúvida que quero resolver
-professor precisso aprender boa parte desse assuntos os que consegui fazer foi com ajuda da IA
+professor precisso aprender,
+boa parte desse assuntos os que consegui fazer foi com ajuda da IA
 ________________________________________________________________________
 
 ________________________________________________________________________
