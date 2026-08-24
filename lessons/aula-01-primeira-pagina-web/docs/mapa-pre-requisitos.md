@@ -20,6 +20,3 @@ Marque **uma opção por linha**. Este diagnóstico não vale nota.
 professor precisso aprender,
 boa parte desse assuntos os que consegui fazer foi com ajuda da IA
 
-tanto que no mobille so consegui fazer ate a 3 ja nao esta entendendo  mais nd da 4 para frente.
-
-
