@@ -1,8 +1,8 @@
 <template>
   <article class="project-card">
-    <p class="label">Desafio inicial</p>
-    <h2>Problema observado</h2>
-    <p>Como tornar as informações do projeto mais claras para a comunidade?</p>
+    <p class="label">Desafio da equipe</p>
+    <h2>Informação acessível</h2>
+    <p>Como apresentar as informações do projeto de forma clara para toda a comunidade?</p>
     <button type="button">Marcar interesse</button>
   </article>
 </template>

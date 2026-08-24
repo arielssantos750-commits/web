@@ -1,28 +1,19 @@
 # Backlog inicial
 
-> Este é um exemplo inicial. A equipe deve adaptar as histórias ao problema escolhido e manter a ordem de prioridade.
+P1 — Conhecer as habilidades do Ricardinho
 
-## P1 — Entender a proposta
+Como visitante, quero conhecer as principais habilidades de volei do Ricardinho para entender por que ele é considerado um grande levantador do voleibol.
 
-**Como** visitante, **quero** compreender a proposta **para** saber qual problema o projeto pretende resolver.
+Critério observável: o título e a descrição das habilidades aparecem corretamente na página.
 
-**Critério observável:** título e descrição aparecem sem erros na página.
+P2 — Marcar interesse nas habilidades
 
-## P2 — Registrar interesse
+Como visitante, quero marcar interesse nas habilidades apresentadas para indicar que achei o conteúdo relevante.
 
-**Como** visitante, **quero** marcar interesse **para** indicar que a proposta é relevante para mim.
+Critério observável: ao clicar no botão “Marcar interesse”, uma confirmação aparece na página.
 
-**Critério observável:** o botão produz uma confirmação visível.
+P3 — Receber confirmação da ação
 
-## P3 — Receber retorno da ação
+Como visitante, quero visualizar uma mensagem após marcar meu interesse para saber que minha ação foi registrada.
 
-**Como** visitante, **quero** visualizar uma mensagem **para** saber que meu clique foi reconhecido.
-
-**Critério observável:** o texto de status muda após o clique.
-
-## Ideias para depois
-
-- [ ] ________________________________________________________________
-- [ ] ________________________________________________________________
-- [ ] ________________________________________________________________
-
+Critério observável: após o clique, o texto de status muda e exibe "Habilidades adquiridas!"

@@ -1,8 +1,8 @@
 <template>
   <header class="app-header">
-    <p class="eyebrow">IFMA · Projeto Integrador</p>
+    <p class="eyebrow">IFMA · Equipe Ariel</p>
     <h1>Projeto Integrador Web</h1>
-    <p>Primeiro protótipo organizado com Vue 3.</p>
+    <p>Nosso primeiro protótipo organizado com Vue 3.</p>
   </header>
 </template>
 
