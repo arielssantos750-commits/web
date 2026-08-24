@@ -2,7 +2,7 @@
 
 **Nome:** ariel dos santos moraes
 
-**Equipe:** ______________________________________________
+**Equipe:**Ariel, antonio, pablo
 
 **Data:** 21/08/2026
 
@@ -19,7 +19,7 @@ Marque **uma opção por linha**. Este diagnóstico não vale nota.
 ## Uma dúvida que quero resolver
 professor precisso aprender,
 boa parte desse assuntos os que consegui fazer foi com ajuda da IA
-________________________________________________________________________
 
-________________________________________________________________________
+tanto que no mobille so consegui fazer ate a 3 ja nao esta entendendo  mais nd da 4 para frente.
+
 
